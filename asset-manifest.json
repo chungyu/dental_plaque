@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/dental_plaque/static/js/main.ce7a5ba6.js",
+    "main.js": "/dental_plaque/static/js/main.d04bd2fe.js",
     "index.html": "/dental_plaque/index.html",
-    "main.ce7a5ba6.js.map": "/dental_plaque/static/js/main.ce7a5ba6.js.map"
+    "main.d04bd2fe.js.map": "/dental_plaque/static/js/main.d04bd2fe.js.map"
   },
   "entrypoints": [
-    "static/js/main.ce7a5ba6.js"
+    "static/js/main.d04bd2fe.js"
   ]
 }
